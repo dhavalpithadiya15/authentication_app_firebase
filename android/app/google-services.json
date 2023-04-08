@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090695136308",
+    "project_id": "school-tour-app-85319",
+    "storage_bucket": "school-tour-app-85319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090695136308:android:2bf899b4ded77a9076b661",
+        "android_client_info": {
+          "package_name": "com.example.school_tour_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090695136308-ucd44a91h7un95th03s9i326nr9eqph5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school_tour_app",
+            "certificate_hash": "02c39b1e75bc65cf5aed8092245e67618ef217c5"
+          }
+        },
+        {
+          "client_id": "1090695136308-443aieude25gose6abgi7tnv5c7a1c39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNxM3a0uNYkWZMUCXm9Rfam55Pl5WybQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090695136308-443aieude25gose6abgi7tnv5c7a1c39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
